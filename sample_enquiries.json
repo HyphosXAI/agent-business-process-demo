@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ENQ-1",
+    "name": "Alex Example",
+    "email": "alex@example.com",
+    "subject": "Login page not working",
+    "body": "Hi, I get an error every time I try to sign in. Can you help? It's urgent."
+  },
+  {
+    "id": "ENQ-2",
+    "name": "Sam Sample",
+    "email": "sam@example.com",
+    "subject": "Interested in a demo",
+    "body": "We're interested in a trial for our small team. Could we book a demo?"
+  },
+  {
+    "id": "ENQ-3",
+    "name": "Jo Placeholder",
+    "email": "jo@example.com",
+    "subject": "Integration idea",
+    "body": "We'd like to collaborate on an integration with our tool. Also, can you guarantee a free refund if it doesn't work out?"
+  }
+]
